@@ -3,8 +3,6 @@
 This is a simple desktop application developed in microsoft platform while creating a Tutorial Series for youtube.
 You can learn develop this project on yor self by watching the tutorial series at https://www.youtube.com/watch?v=Lttd3ohTarE&list=PLBLPjjQlnVXVnz3Hksi1th0uHXxh6Dm3h
 
-# YouTube Channel - https://www.youtube.com/vijaythapa
-
 ## Tools and Technologies Used
 1. C# programming language in 3-tier architecture
 2. MS SQL Server 2014 
@@ -17,21 +15,6 @@ You can learn develop this project on yor self by watching the tutorial series a
 4. Product Module - Manages all the Product (Add New, Update and Delete Existing)
 5. Purchase and Sales Module - Purchase Products from Dealer and Sell Products to Consumers
 6. Transactions Module - View the Products Purchased and Sold on Particula dates.
-
-
-
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
 
 
 ## Instructions to Use
@@ -48,5 +31,3 @@ Password: admin
 ### For User
 Username: user
 Password: user
-
-For any queries, Email at - hi@vijaythapa.com
